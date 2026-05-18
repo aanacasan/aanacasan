@@ -4,7 +4,7 @@
 
 Me chamo Ana, tenho 34 anos e sou natural de São Paulo. Sou professora de Língua Portuguesa há 10 anos e estou em transição de carreira para Segurança da Informação. Atualmente, curso Análise e Desenvolvimento de Sistemas na Unicesumar e estudo pela trilha Cybersecurity Specialist na DIO, onde construo minha base técnica em Linux, Python ;e Cloud Computing na Google Skills.
 
-A minha rede para contato é o [LinkedIn](https://www.linkedin.com/in/nanadev/) ,e você pode acompanhar minhas conquistas na [DIO](https://web.dio.me/users/aanacasan_43642?tab=achievements).
+A minha rede para contato é o [LinkedIn](https://www.linkedin.com/in/nanadev/) , e você pode acompanhar minhas conquistas na [DIO](https://web.dio.me/users/aanacasan_43642?tab=achievements).
 
 <p align="left">
     <a href="https://github.com/aanacasan?tab=followers">
