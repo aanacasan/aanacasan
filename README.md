@@ -54,18 +54,3 @@ A minha rede para contato é o [LinkedIn](https://www.linkedin.com/in/nanadev/) 
 
 <br/>
 <br/>
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://streak-stats.demolab.com?user=aanacasan&theme=shades-of-purple&locale=pt_br&date_format=j%20M%5B%20Y%5D"
-  />
-</p>
-
