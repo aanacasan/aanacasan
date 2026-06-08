@@ -6,29 +6,6 @@ Me chamo Ana, tenho 34 anos e sou natural de São Paulo. Sou professora de Líng
 
 A minha rede para contato é o [LinkedIn](https://www.linkedin.com/in/nanadev/) , e você pode acompanhar minhas conquistas na [DIO](https://web.dio.me/users/aanacasan_43642?tab=achievements).
 
-<p align="left">
-    <a href="https://github.com/aanacasan?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/aanacasan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/nanadev/">
-        <img 
-            alt="LinkedIn" 
-            title="Me conecte no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://web.dio.me/users/aanacasan_43642?tab=achievements">
-        <img 
-            alt="DIO" 
-            title="Meu perfil na DIO"
-            src="https://custom-icon-badges.demolab.com/badge/DIO-7B2FBE?style=for-the-badge&logo=graduation-cap&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
